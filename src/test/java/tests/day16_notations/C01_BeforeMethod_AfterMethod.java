@@ -1,4 +1,4 @@
-package day_16_anotations;
+package tests.day16_notations;
 
 
 

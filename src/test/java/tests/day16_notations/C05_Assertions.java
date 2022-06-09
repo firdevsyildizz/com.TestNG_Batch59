@@ -1,4 +1,4 @@
-package day_16_anotations;
+package tests.day16_notations;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
